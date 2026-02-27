@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+:root {
+  --navy: #1a2744;
+  --navy-light: #2a3f6a;
+  --gold: #b8860b;
+  --gold-light: #d4a843;
+  --cream: #faf8f5;
+  --warm-gray: #6b6460;
+  --light-border: #e8e4df;
+  --text-primary: #1a1a1a;
+  --text-secondary: #4a4a4a;
+  --text-muted: #8a8580;
+}
+
+@theme inline {
+  --color-navy: var(--navy);
+  --color-navy-light: var(--navy-light);
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-cream: var(--cream);
+  --color-warm-gray: var(--warm-gray);
+  --color-light-border: var(--light-border);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+  --font-heading: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Source Sans 3', 'Segoe UI', sans-serif;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--cream);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+}
+
+::selection {
+  background: var(--navy);
+  color: white;
+}
+
+/* Scroll-triggered animations */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fadeUp 0.8s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.animate-slide-left {
+  animation: slideInLeft 0.7s ease-out forwards;
+}
+
+/* Stagger delays */
+.delay-1 { animation-delay: 0.1s; }
+.delay-2 { animation-delay: 0.2s; }
+.delay-3 { animation-delay: 0.3s; }
+.delay-4 { animation-delay: 0.4s; }
+.delay-5 { animation-delay: 0.5s; }
+.delay-6 { animation-delay: 0.6s; }
