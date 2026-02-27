@@ -148,8 +148,8 @@ const t = {
     ],
     education: [
       { year: "2022", degree: "Post-Doc in Finance", institution: "FGV" },
-      { year: "2017", degree: "Ph.D. in Accounting Sciences", institution: "UFRJ" },
-      { year: "2005", degree: "M.Sc. in Accounting Sciences", institution: "UERJ" },
+      { year: "2017", degree: "Ph.D. in Accounting", institution: "UFRJ" },
+      { year: "2005", degree: "M.Sc. in Accounting", institution: "UERJ" },
       { year: "2009", degree: "MBA — International Accounting Standards", institution: "USP / FIPECAFI" },
       { year: "2008", degree: "MBA — Economic & Financial Engineering", institution: "UFF" },
       { year: "1999", degree: "MBA — Risk Management", institution: "FGV" },
@@ -256,8 +256,8 @@ const t = {
     ],
     education: [
       { year: "2022", degree: "Pós-Doutorado em Finanças", institution: "FGV" },
-      { year: "2017", degree: "Doutorado em Ciências Contábeis", institution: "UFRJ" },
-      { year: "2005", degree: "Mestrado em Ciências Contábeis", institution: "UERJ" },
+      { year: "2017", degree: "Doutorado em Contabilidade", institution: "UFRJ" },
+      { year: "2005", degree: "Mestrado em Contabilidade", institution: "UERJ" },
       { year: "2009", degree: "MBA — Normas Internacionais de Contabilidade", institution: "USP / FIPECAFI" },
       { year: "2008", degree: "MBA — Engenharia Econômica e Financeira", institution: "UFF" },
       { year: "1999", degree: "MBA — Gerenciamento de Riscos", institution: "FGV" },
