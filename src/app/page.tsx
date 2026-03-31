@@ -142,8 +142,8 @@ const t = {
         title: "Public Data Laboratory (2026)",
         description:
           "An open platform for exploring and analyzing public datasets with interactive visualizations.",
-        url: "https://lab-dados-abertos-bcb.streamlit.app/",
-        tech: "Streamlit · Python · Open Data",
+        url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
+        tech: "Next.js · React · Open Data",
       },
     ],
     education: [
