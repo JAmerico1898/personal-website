@@ -132,16 +132,37 @@ const t = {
         tech: "Streamlit · Python · Data Science",
       },
       {
-        title: "Financial Almanac — Série A (2024)",
+        title: "Financial Almanac — Série A (2025)",
         description:
           "Comprehensive financial analysis of Brazilian Serie A football clubs, including revenue, debt, and performance metrics.",
-        url: "https://footballclubsfinancials.streamlit.app/",
-        tech: "Streamlit · Python · Finance",
+        url: "https://football-clubs-financials.vercel.app/",
+        tech: "Next.js · TypeScript · Finance",
       },
       {
-        title: "Public Data Laboratory (2026)",
+        title: "Performance and Playing Style Analysis — Brasileirão Série A",
         description:
-          "An open platform for exploring and analyzing public datasets with interactive visualizations.",
+          "A space for those who want to go beyond the standings. Statistics, metrics, and analyses of Série A clubs.",
+        url: "https://analise-performance-estilo.vercel.app/",
+        tech: "Next.js · React · Football Analytics",
+      },
+      {
+        title: "Derivatives Laboratory",
+        description:
+          "Interactive simulations and decision trees for hands-on learning of financial derivatives.",
+        url: "https://laboratorio-derivativos.vercel.app/",
+        tech: "Next.js · React · Derivatives",
+      },
+      {
+        title: "Financial Markets Laboratory",
+        description:
+          "Explore the fundamentals and innovations of financial markets through objective, applied analyses.",
+        url: "https://laboratorio-mercado-financeiro.vercel.app/",
+        tech: "Next.js · React · Financial Markets",
+      },
+      {
+        title: "Central Bank Open Data Laboratory",
+        description:
+          "Explore and visualize data from the Central Bank of Brazil's Open Data Portal. Access information on assets, credit, interest rates, and financial indicators of regulated institutions.",
         url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
         tech: "Next.js · React · Open Data",
       },
@@ -240,16 +261,37 @@ const t = {
         tech: "Streamlit · Python · Data Science",
       },
       {
-        title: "Almanaque Financeiro — Série A (2024)",
+        title: "Almanaque Financeiro — Série A (2025)",
         description:
           "Análise financeira abrangente dos clubes da Série A do futebol brasileiro, incluindo receita, dívida e métricas de desempenho.",
-        url: "https://footballclubsfinancials.streamlit.app/",
-        tech: "Streamlit · Python · Finanças",
+        url: "https://football-clubs-financials.vercel.app/",
+        tech: "Next.js · TypeScript · Finanças",
       },
       {
-        title: "Laboratório de Dados Públicos (2026)",
+        title: "Análise de Performance e Estilo de Jogo - Brasileirão Série A",
         description:
-          "Plataforma aberta para explorar e analisar conjuntos de dados públicos com visualizações interativas.",
+          "Uma espaço para quem quer ir além da tabela. Estatísticas, métricas e análises dos clubes da Série A",
+        url: "https://analise-performance-estilo.vercel.app/",
+        tech: "Next.js · React · Football Analytics",
+      },
+      {
+        title: "Laboratório de Derivativos",
+        description:
+          "Simulações interativas e árvores de decisão para o aprendizado prático de derivativos financeiros.",
+        url: "https://laboratorio-derivativos.vercel.app/",
+        tech: "Next.js · React · Derivativos",
+      },
+      {
+        title: "Laboratório de Mercado Financeiro",
+        description:
+          "Explore os fundamentos e as inovações do mercado financeiro com análises objetivas e aplicadas.",
+        url: "https://laboratorio-mercado-financeiro.vercel.app/",
+        tech: "Next.js · React · Mercado Financeiro",
+      },
+      {
+        title: "Laboratório de Dados Abertos do Banco Central",
+        description:
+          "Explore e visualize dados do Portal de Dados Abertos do Banco Central do Brasil. Consulte informações sobre ativos, crédito, taxas de juros e indicadores financeiros das instituições reguladas.",
         url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
         tech: "Next.js · React · Dados Abertos",
       },
