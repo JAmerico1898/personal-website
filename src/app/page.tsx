@@ -166,6 +166,20 @@ const t = {
         url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
         tech: "Next.js · React · Open Data",
       },
+      {
+        title: "Corporate Treasury Laboratory",
+        description:
+          "Interactive simulations for hands-on learning of treasury management — working capital, cash, inventory, receivables, and suppliers.",
+        url: "https://laboratorio-tesouraria-empresas.vercel.app/",
+        tech: "Next.js · React · Treasury",
+      },
+      {
+        title: "Financial Institutions Treasury Laboratory",
+        description:
+          "Interactive simulations for hands-on learning of treasury operations in financial institutions.",
+        url: "https://laboratorio-tesouraria-ifs.vercel.app/",
+        tech: "Next.js · React · Treasury",
+      },
     ],
     education: [
       { year: "2022", degree: "Post-Doc in Finance", institution: "FGV" },
@@ -294,6 +308,20 @@ const t = {
           "Explore e visualize dados do Portal de Dados Abertos do Banco Central do Brasil. Consulte informações sobre ativos, crédito, taxas de juros e indicadores financeiros das instituições reguladas.",
         url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
         tech: "Next.js · React · Dados Abertos",
+      },
+      {
+        title: "Laboratório de Tesouraria de Empresas",
+        description:
+          "Simulações interativas para o aprendizado prático da gestão de tesouraria — capital de giro, caixa, estoques, recebíveis e fornecedores.",
+        url: "https://laboratorio-tesouraria-empresas.vercel.app/",
+        tech: "Next.js · React · Tesouraria",
+      },
+      {
+        title: "Laboratório de Tesouraria de Instituições Financeiras",
+        description:
+          "Simulações interativas para a aprendizagem prática das operações de tesouraria em instituições financeiras.",
+        url: "https://laboratorio-tesouraria-ifs.vercel.app/",
+        tech: "Next.js · React · Tesouraria",
       },
     ],
     education: [
