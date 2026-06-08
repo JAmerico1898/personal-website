@@ -122,6 +122,9 @@ const t = {
       { year: 2020, title: "CFA Society Innovation in Finance Prize", place: "3rd place" },
       { year: 2017, title: "VIII Febraban Banking Economics Award", place: "3rd place" },
       { year: 2015, title: "VI Febraban Banking Economics Award", place: "2nd place" },
+      { year: 2025, title: "Coppead Alumni Honored Professor", place: "" },
+      { year: 2024, title: "Coppead Alumni Honored Professor", place: "" },
+      { year: 2022, title: "Coppead Alumni Honored Professor", place: "" },
     ],
     projects: [
       {
@@ -265,6 +268,9 @@ const t = {
       { year: 2020, title: "Prêmio CFA Society Inovação em Finanças", place: "3º lugar" },
       { year: 2017, title: "VIII Prêmio Febraban de Economia Bancária", place: "3º lugar" },
       { year: 2015, title: "VI Prêmio Febraban de Economia Bancária", place: "2º lugar" },
+      { year: 2025, title: "Professor Homenageado Coppead Alumni", place: "" },
+      { year: 2024, title: "Professor Homenageado Coppead Alumni", place: "" },
+      { year: 2022, title: "Professor Homenageado Coppead Alumni", place: "" },
     ],
     projects: [
       {
@@ -620,9 +626,11 @@ export default function Home() {
                 <h3 className="font-heading text-xl text-navy font-medium mt-4 mb-2 leading-snug">
                   {a.title}
                 </h3>
-                <p className="text-text-muted text-sm uppercase tracking-wide">
-                  {a.place}
-                </p>
+                {a.place ? (
+                  <p className="text-text-muted text-sm uppercase tracking-wide">
+                    {a.place}
+                  </p>
+                ) : null}
               </div>
             ))}
           </div>
