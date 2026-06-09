@@ -284,7 +284,7 @@ const t = {
     contactLabel: "Contato",
     contactTitle: "Vamos Conversar",
     contactDesc:
-      "Interessado em colaboração, oportunidades de pesquisa ou consultas acadêmicas? Fique à vontade para entrar em contato.",
+      "Interessado em colaboração, oportunidades de pesquisa ou consultas acadêmicas? Entre em contato.",
     footerRole: "Pesquisador em Finanças & Analista do Banco Central",
     awards: [
       { year: 2020, title: "Prêmio CFA Society Inovação em Finanças", place: "3º lugar" },
