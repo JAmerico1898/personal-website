@@ -187,7 +187,7 @@ const t = {
         ],
       },
       {
-        title: "Football Data Analysis",
+        title: "Football Analytics",
         projects: [
           {
             title: "Public Scouting Platform",
@@ -355,7 +355,7 @@ const t = {
         ],
       },
       {
-        title: "Análise de Dados no Futebol",
+        title: "Football Analytics",
         projects: [
           {
             title: "Plataforma Pública de Scouting",
