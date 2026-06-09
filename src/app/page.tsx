@@ -128,7 +128,7 @@ const t = {
     ],
     projectCategories: [
       {
-        title: "Finance, Financial Markets & Accounting Sciences",
+        title: "Finance, Financial Markets & Accounting",
         projects: [
           {
             title: "Derivatives Laboratory",
