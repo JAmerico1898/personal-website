@@ -126,69 +126,84 @@ const t = {
       { year: 2024, title: "Coppead Alumni Honored Professor", place: "" },
       { year: 2022, title: "Coppead Alumni Honored Professor", place: "" },
     ],
-    projects: [
+    projectCategories: [
       {
-        title: "Public Scouting Platform",
-        description:
-          "A data-driven scouting tool for football talent analysis using public data and advanced metrics.",
-        url: "https://softplayerz-soft-playerz-vx07dg.streamlit.app/",
-        tech: "Streamlit · Python · Data Science",
+        title: "Finance, Financial Markets & Accounting Sciences",
+        projects: [
+          {
+            title: "Derivatives Laboratory",
+            description:
+              "Interactive simulations and decision trees for hands-on learning of financial derivatives.",
+            url: "https://laboratorio-derivativos.vercel.app/",
+            tech: "Next.js · React · Derivatives",
+          },
+          {
+            title: "Financial Markets Laboratory",
+            description:
+              "Explore the fundamentals and innovations of financial markets through objective, applied analyses.",
+            url: "https://laboratorio-mercado-financeiro.vercel.app/",
+            tech: "Next.js · React · Financial Markets",
+          },
+          {
+            title: "Central Bank Open Data Laboratory",
+            description:
+              "Explore and visualize data from the Central Bank of Brazil's Open Data Portal. Access information on assets, credit, interest rates, and financial indicators of regulated institutions.",
+            url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
+            tech: "Next.js · React · Open Data",
+          },
+          {
+            title: "Corporate Treasury Laboratory",
+            description:
+              "Interactive simulations for hands-on learning of treasury management — working capital, cash, inventory, receivables, and suppliers.",
+            url: "https://laboratorio-tesouraria-empresas.vercel.app/",
+            tech: "Next.js · React · Treasury",
+          },
+          {
+            title: "Financial Institutions Treasury Laboratory",
+            description:
+              "Interactive simulations for hands-on learning of treasury operations in financial institutions.",
+            url: "https://laboratorio-tesouraria-ifs.vercel.app/",
+            tech: "Next.js · React · Treasury",
+          },
+          {
+            title: "Financial Statement Analysis Laboratory",
+            description:
+              "Interactive simulations for hands-on learning of Financial Statement Analysis.",
+            url: "https://laboratorio-analise-financeira.vercel.app/",
+            tech: "Next.js · React · Financial Analysis",
+          },
+        ],
       },
       {
-        title: "Financial Almanac — Série A (2025)",
-        description:
-          "Comprehensive financial analysis of Brazilian Serie A football clubs, including revenue, debt, and performance metrics.",
-        url: "https://football-clubs-financials.vercel.app/",
-        tech: "Next.js · TypeScript · Finance",
+        title: "Football Finance",
+        projects: [
+          {
+            title: "Financial Almanac — Série A (2025)",
+            description:
+              "Comprehensive financial analysis of Brazilian Serie A football clubs, including revenue, debt, and performance metrics.",
+            url: "https://football-clubs-financials.vercel.app/",
+            tech: "Next.js · TypeScript · Finance",
+          },
+        ],
       },
       {
-        title: "Performance and Playing Style Analysis — Brasileirão Série A",
-        description:
-          "A space for those who want to go beyond the standings. Statistics, metrics, and analyses of Série A clubs.",
-        url: "https://analise-performance-estilo.vercel.app/",
-        tech: "Next.js · React · Football Analytics",
-      },
-      {
-        title: "Derivatives Laboratory",
-        description:
-          "Interactive simulations and decision trees for hands-on learning of financial derivatives.",
-        url: "https://laboratorio-derivativos.vercel.app/",
-        tech: "Next.js · React · Derivatives",
-      },
-      {
-        title: "Financial Markets Laboratory",
-        description:
-          "Explore the fundamentals and innovations of financial markets through objective, applied analyses.",
-        url: "https://laboratorio-mercado-financeiro.vercel.app/",
-        tech: "Next.js · React · Financial Markets",
-      },
-      {
-        title: "Central Bank Open Data Laboratory",
-        description:
-          "Explore and visualize data from the Central Bank of Brazil's Open Data Portal. Access information on assets, credit, interest rates, and financial indicators of regulated institutions.",
-        url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
-        tech: "Next.js · React · Open Data",
-      },
-      {
-        title: "Corporate Treasury Laboratory",
-        description:
-          "Interactive simulations for hands-on learning of treasury management — working capital, cash, inventory, receivables, and suppliers.",
-        url: "https://laboratorio-tesouraria-empresas.vercel.app/",
-        tech: "Next.js · React · Treasury",
-      },
-      {
-        title: "Financial Institutions Treasury Laboratory",
-        description:
-          "Interactive simulations for hands-on learning of treasury operations in financial institutions.",
-        url: "https://laboratorio-tesouraria-ifs.vercel.app/",
-        tech: "Next.js · React · Treasury",
-      },
-      {
-        title: "Financial Statement Analysis Laboratory",
-        description:
-          "Interactive simulations for hands-on learning of Financial Statement Analysis.",
-        url: "https://laboratorio-analise-financeira.vercel.app/",
-        tech: "Next.js · React · Financial Analysis",
+        title: "Football Data Analysis",
+        projects: [
+          {
+            title: "Public Scouting Platform",
+            description:
+              "A data-driven scouting tool for football talent analysis using public data and advanced metrics.",
+            url: "https://softplayerz-soft-playerz-vx07dg.streamlit.app/",
+            tech: "Streamlit · Python · Data Science",
+          },
+          {
+            title: "Performance and Playing Style Analysis — Brasileirão Série A",
+            description:
+              "A space for those who want to go beyond the standings. Statistics, metrics, and analyses of Série A clubs.",
+            url: "https://analise-performance-estilo.vercel.app/",
+            tech: "Next.js · React · Football Analytics",
+          },
+        ],
       },
     ],
     education: [
@@ -279,69 +294,84 @@ const t = {
       { year: 2024, title: "Professor Homenageado Coppead Alumni", place: "" },
       { year: 2022, title: "Professor Homenageado Coppead Alumni", place: "" },
     ],
-    projects: [
+    projectCategories: [
       {
-        title: "Plataforma Pública de Scouting",
-        description:
-          "Ferramenta de scouting baseada em dados para análise de talentos no futebol usando dados públicos e métricas avançadas.",
-        url: "https://softplayerz-soft-playerz-vx07dg.streamlit.app/",
-        tech: "Streamlit · Python · Data Science",
+        title: "Finanças, Mercado Financeiro e Ciências Contábeis",
+        projects: [
+          {
+            title: "Laboratório de Derivativos",
+            description:
+              "Simulações interativas e árvores de decisão para o aprendizado prático de derivativos financeiros.",
+            url: "https://laboratorio-derivativos.vercel.app/",
+            tech: "Next.js · React · Derivativos",
+          },
+          {
+            title: "Laboratório de Mercado Financeiro",
+            description:
+              "Explore os fundamentos e as inovações do mercado financeiro com análises objetivas e aplicadas.",
+            url: "https://laboratorio-mercado-financeiro.vercel.app/",
+            tech: "Next.js · React · Mercado Financeiro",
+          },
+          {
+            title: "Laboratório de Dados Abertos do Banco Central",
+            description:
+              "Explore e visualize dados do Portal de Dados Abertos do Banco Central do Brasil. Consulte informações sobre ativos, crédito, taxas de juros e indicadores financeiros das instituições reguladas.",
+            url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
+            tech: "Next.js · React · Dados Abertos",
+          },
+          {
+            title: "Laboratório de Tesouraria de Empresas",
+            description:
+              "Simulações interativas para o aprendizado prático da gestão de tesouraria — capital de giro, caixa, estoques, recebíveis e fornecedores.",
+            url: "https://laboratorio-tesouraria-empresas.vercel.app/",
+            tech: "Next.js · React · Tesouraria",
+          },
+          {
+            title: "Laboratório de Tesouraria de Instituições Financeiras",
+            description:
+              "Simulações interativas para a aprendizagem prática das operações de tesouraria em instituições financeiras.",
+            url: "https://laboratorio-tesouraria-ifs.vercel.app/",
+            tech: "Next.js · React · Tesouraria",
+          },
+          {
+            title: "Laboratório de Análises Financeiras",
+            description:
+              "Simulações interativas para a aprendizagem prática de Análise das Demonstrações Financeiras.",
+            url: "https://laboratorio-analise-financeira.vercel.app/",
+            tech: "Next.js · React · Análise Financeira",
+          },
+        ],
       },
       {
-        title: "Almanaque Financeiro — Série A (2025)",
-        description:
-          "Análise financeira abrangente dos clubes da Série A do futebol brasileiro, incluindo receita, dívida e métricas de desempenho.",
-        url: "https://football-clubs-financials.vercel.app/",
-        tech: "Next.js · TypeScript · Finanças",
+        title: "Finanças do Futebol",
+        projects: [
+          {
+            title: "Almanaque Financeiro — Série A (2025)",
+            description:
+              "Análise financeira abrangente dos clubes da Série A do futebol brasileiro, incluindo receita, dívida e métricas de desempenho.",
+            url: "https://football-clubs-financials.vercel.app/",
+            tech: "Next.js · TypeScript · Finanças",
+          },
+        ],
       },
       {
-        title: "Análise de Performance e Estilo de Jogo - Brasileirão Série A",
-        description:
-          "Uma espaço para quem quer ir além da tabela. Estatísticas, métricas e análises dos clubes da Série A",
-        url: "https://analise-performance-estilo.vercel.app/",
-        tech: "Next.js · React · Football Analytics",
-      },
-      {
-        title: "Laboratório de Derivativos",
-        description:
-          "Simulações interativas e árvores de decisão para o aprendizado prático de derivativos financeiros.",
-        url: "https://laboratorio-derivativos.vercel.app/",
-        tech: "Next.js · React · Derivativos",
-      },
-      {
-        title: "Laboratório de Mercado Financeiro",
-        description:
-          "Explore os fundamentos e as inovações do mercado financeiro com análises objetivas e aplicadas.",
-        url: "https://laboratorio-mercado-financeiro.vercel.app/",
-        tech: "Next.js · React · Mercado Financeiro",
-      },
-      {
-        title: "Laboratório de Dados Abertos do Banco Central",
-        description:
-          "Explore e visualize dados do Portal de Dados Abertos do Banco Central do Brasil. Consulte informações sobre ativos, crédito, taxas de juros e indicadores financeiros das instituições reguladas.",
-        url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
-        tech: "Next.js · React · Dados Abertos",
-      },
-      {
-        title: "Laboratório de Tesouraria de Empresas",
-        description:
-          "Simulações interativas para o aprendizado prático da gestão de tesouraria — capital de giro, caixa, estoques, recebíveis e fornecedores.",
-        url: "https://laboratorio-tesouraria-empresas.vercel.app/",
-        tech: "Next.js · React · Tesouraria",
-      },
-      {
-        title: "Laboratório de Tesouraria de Instituições Financeiras",
-        description:
-          "Simulações interativas para a aprendizagem prática das operações de tesouraria em instituições financeiras.",
-        url: "https://laboratorio-tesouraria-ifs.vercel.app/",
-        tech: "Next.js · React · Tesouraria",
-      },
-      {
-        title: "Laboratório de Análises Financeiras",
-        description:
-          "Simulações interativas para a aprendizagem prática de Análise das Demonstrações Financeiras.",
-        url: "https://laboratorio-analise-financeira.vercel.app/",
-        tech: "Next.js · React · Análise Financeira",
+        title: "Análise de Dados no Futebol",
+        projects: [
+          {
+            title: "Plataforma Pública de Scouting",
+            description:
+              "Ferramenta de scouting baseada em dados para análise de talentos no futebol usando dados públicos e métricas avançadas.",
+            url: "https://softplayerz-soft-playerz-vx07dg.streamlit.app/",
+            tech: "Streamlit · Python · Data Science",
+          },
+          {
+            title: "Análise de Performance e Estilo de Jogo - Brasileirão Série A",
+            description:
+              "Uma espaço para quem quer ir além da tabela. Estatísticas, métricas e análises dos clubes da Série A",
+            url: "https://analise-performance-estilo.vercel.app/",
+            tech: "Next.js · React · Football Analytics",
+          },
+        ],
       },
     ],
     education: [
@@ -661,39 +691,48 @@ export default function Home() {
             {l.projTitle}
           </h2>
 
-          <div className="grid md:grid-cols-3 gap-8">
-            {l.projects.map((p, i) => (
-              <a
-                key={i}
-                href={p.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="group block bg-cream border border-light-border p-8 hover:border-navy/20 transition-all hover:-translate-y-1 hover:shadow-lg"
-              >
-                <div className="flex items-center justify-between mb-4">
-                  <span className="text-gold text-xs font-medium tracking-widest uppercase">
-                    {p.tech.split(" · ")[0]}
-                  </span>
-                  <svg
-                    className="w-4 h-4 text-text-muted group-hover:text-navy group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    strokeWidth={2}
-                  >
-                    <path d="M7 17L17 7M17 7H7M17 7v10" />
-                  </svg>
-                </div>
-                <h3 className="font-heading text-xl text-navy font-medium mb-3 leading-snug">
-                  {p.title}
+          <div className="space-y-16">
+            {l.projectCategories.map((cat, ci) => (
+              <div key={ci}>
+                <h3 className="font-heading text-2xl text-navy font-light mb-8 pb-4 border-b border-light-border">
+                  {cat.title}
                 </h3>
-                <p className="text-text-secondary text-sm leading-relaxed mb-4">
-                  {p.description}
-                </p>
-                <p className="text-text-muted text-xs tracking-wide">
-                  {p.tech}
-                </p>
-              </a>
+                <div className="grid md:grid-cols-3 gap-8">
+                  {cat.projects.map((p, i) => (
+                    <a
+                      key={i}
+                      href={p.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="group block bg-cream border border-light-border p-8 hover:border-navy/20 transition-all hover:-translate-y-1 hover:shadow-lg"
+                    >
+                      <div className="flex items-center justify-between mb-4">
+                        <span className="text-gold text-xs font-medium tracking-widest uppercase">
+                          {p.tech.split(" · ")[0]}
+                        </span>
+                        <svg
+                          className="w-4 h-4 text-text-muted group-hover:text-navy group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                          strokeWidth={2}
+                        >
+                          <path d="M7 17L17 7M17 7H7M17 7v10" />
+                        </svg>
+                      </div>
+                      <h3 className="font-heading text-xl text-navy font-medium mb-3 leading-snug">
+                        {p.title}
+                      </h3>
+                      <p className="text-text-secondary text-sm leading-relaxed mb-4">
+                        {p.description}
+                      </p>
+                      <p className="text-text-muted text-xs tracking-wide">
+                        {p.tech}
+                      </p>
+                    </a>
+                  ))}
+                </div>
+              </div>
             ))}
           </div>
         </div>
