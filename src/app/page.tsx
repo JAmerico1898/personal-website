@@ -82,7 +82,7 @@ const t = {
         As a professor, he teaches <em>Financial Institution Management</em>{" "}
         and <em>Financial Derivatives Management</em> at{" "}
         <strong className="text-text-primary font-medium">
-          Coppead/UFRJ, FGV,
+          Coppead/UFRJ, Fundação Getúlio Vargas,
         </strong>{" "}
         and{" "}
         <strong className="text-text-primary font-medium">
@@ -103,7 +103,7 @@ const t = {
       </>
     ),
     aboutP4:
-      "Beyond finance, José holds a specialized credential in sports analytics and has built data-driven applications for football scouting and club financial analysis.",
+      "José develops interactive tools for assisting students' learning during courses, as presented in the Projects section. Beyond finance, José holds a specialized credential in sports analytics and has built data-driven applications for football scouting, football clubs' sporting performance and play style, and football clubs' financial analysis.",
     pubLabel: "Research",
     pubTitle: "Selected Publications",
     awardsLabel: "Recognition",
@@ -250,7 +250,7 @@ const t = {
         Como professor, leciona <em>Gestão de Instituições Financeiras</em> e{" "}
         <em>Gestão de Derivativos Financeiros</em> na{" "}
         <strong className="text-text-primary font-medium">
-          Coppead/UFRJ, FGV
+          Coppead/UFRJ, Fundação Getúlio Vargas
         </strong>{" "}
         e{" "}
         <strong className="text-text-primary font-medium">
@@ -271,7 +271,7 @@ const t = {
       </>
     ),
     aboutP4:
-      "Além de finanças, José possui credencial especializada em análise esportiva e desenvolveu aplicações orientadas a dados para scouting de futebol e análise financeira de clubes.",
+      "José desenvolve ferramentas interativas para auxiliar o aprendizado dos alunos durante as disciplinas, conforme apresentado na seção de Projetos. Além de finanças, José possui credencial especializada em análise esportiva e desenvolveu aplicações orientadas a dados para scouting de futebol, análise de desempenho esportivo e estilo de jogo de clubes e análise financeira de clubes de futebol.",
     pubLabel: "Pesquisa",
     pubTitle: "Publicações Selecionadas",
     awardsLabel: "Reconhecimento",
