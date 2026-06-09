@@ -177,18 +177,18 @@ const t = {
         tech: "Next.js · React · Treasury",
       },
       {
-        title: "Financial Statement Analysis Laboratory",
-        description:
-          "Interactive simulations for hands-on learning of Financial Statement Analysis.",
-        url: "https://laboratorio-analise-financeira.vercel.app/",
-        tech: "Next.js · React · Financial Analysis",
-      },
-      {
         title: "Financial Institutions Treasury Laboratory",
         description:
           "Interactive simulations for hands-on learning of treasury operations in financial institutions.",
         url: "https://laboratorio-tesouraria-ifs.vercel.app/",
         tech: "Next.js · React · Treasury",
+      },
+      {
+        title: "Financial Statement Analysis Laboratory",
+        description:
+          "Interactive simulations for hands-on learning of Financial Statement Analysis.",
+        url: "https://laboratorio-analise-financeira.vercel.app/",
+        tech: "Next.js · React · Financial Analysis",
       },
     ],
     education: [
@@ -330,18 +330,18 @@ const t = {
         tech: "Next.js · React · Tesouraria",
       },
       {
-        title: "Laboratório de Análises Financeiras",
-        description:
-          "Simulações interativas para a aprendizagem prática de Análise das Demonstrações Financeiras.",
-        url: "https://laboratorio-analise-financeira.vercel.app/",
-        tech: "Next.js · React · Análise Financeira",
-      },
-      {
         title: "Laboratório de Tesouraria de Instituições Financeiras",
         description:
           "Simulações interativas para a aprendizagem prática das operações de tesouraria em instituições financeiras.",
         url: "https://laboratorio-tesouraria-ifs.vercel.app/",
         tech: "Next.js · React · Tesouraria",
+      },
+      {
+        title: "Laboratório de Análises Financeiras",
+        description:
+          "Simulações interativas para a aprendizagem prática de Análise das Demonstrações Financeiras.",
+        url: "https://laboratorio-analise-financeira.vercel.app/",
+        tech: "Next.js · React · Análise Financeira",
       },
     ],
     education: [
