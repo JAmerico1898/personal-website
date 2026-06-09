@@ -97,7 +97,7 @@ const t = {
         His research — published in journals such as{" "}
         <em>Financial Innovation</em>, <em>Economic Modelling</em>, and{" "}
         <em>Empirical Economics</em> — explores the intersections of financial
-        intermediation, monetary policy, and credit market stability. He is also
+        intermediation, monetary policy, and financial stability. He is also
         a reviewer for international academic journals and has received awards
         from CFA Society and Febraban.
       </>
@@ -265,8 +265,7 @@ const t = {
         Sua pesquisa — publicada em periódicos como{" "}
         <em>Financial Innovation</em>, <em>Economic Modelling</em> e{" "}
         <em>Empirical Economics</em> — explora as interseções entre
-        intermediação financeira, política monetária e estabilidade do mercado
-        de crédito. É também revisor de periódicos acadêmicos internacionais e
+        intermediação financeira, política monetária e estabilidade financeira. É também revisor de periódicos acadêmicos internacionais e
         recebeu prêmios da CFA Society e da Febraban.
       </>
     ),
