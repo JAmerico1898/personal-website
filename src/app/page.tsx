@@ -177,6 +177,13 @@ const t = {
         tech: "Next.js · React · Treasury",
       },
       {
+        title: "Financial Statement Analysis Laboratory",
+        description:
+          "Interactive simulations for hands-on learning of Financial Statement Analysis.",
+        url: "https://laboratorio-analise-financeira.vercel.app/",
+        tech: "Next.js · React · Financial Analysis",
+      },
+      {
         title: "Financial Institutions Treasury Laboratory",
         description:
           "Interactive simulations for hands-on learning of treasury operations in financial institutions.",
@@ -321,6 +328,13 @@ const t = {
           "Simulações interativas para o aprendizado prático da gestão de tesouraria — capital de giro, caixa, estoques, recebíveis e fornecedores.",
         url: "https://laboratorio-tesouraria-empresas.vercel.app/",
         tech: "Next.js · React · Tesouraria",
+      },
+      {
+        title: "Laboratório de Análises Financeiras",
+        description:
+          "Simulações interativas para a aprendizagem prática de Análise das Demonstrações Financeiras.",
+        url: "https://laboratorio-analise-financeira.vercel.app/",
+        tech: "Next.js · React · Análise Financeira",
       },
       {
         title: "Laboratório de Tesouraria de Instituições Financeiras",
