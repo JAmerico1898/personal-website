@@ -172,6 +172,13 @@ const t = {
             url: "https://laboratorio-analise-financeira.vercel.app/",
             tech: "Next.js · React · Financial Analysis",
           },
+          {
+            title: "Municipal Financial Development Atlas",
+            description:
+              "Access, depth, intermediation, digitalization, and financial inequality indicators for all Brazilian municipalities.",
+            url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
+            tech: "Next.js · React · Financial Development",
+          },
         ],
       },
       {
@@ -338,6 +345,13 @@ const t = {
               "Simulações interativas para a aprendizagem prática de Análise das Demonstrações Financeiras.",
             url: "https://laboratorio-analise-financeira.vercel.app/",
             tech: "Next.js · React · Análise Financeira",
+          },
+          {
+            title: "Atlas de Desenvolvimento Financeiro dos Municípios",
+            description:
+              "Indicadores de acesso, profundidade, intermediação, digitalização e desigualdade financeira para todos os municípios brasileiros.",
+            url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
+            tech: "Next.js · React · Desenvolvimento Financeiro",
           },
         ],
       },
