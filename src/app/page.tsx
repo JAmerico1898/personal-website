@@ -179,6 +179,13 @@ const t = {
             url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
             tech: "Next.js · React · Financial Development",
           },
+          {
+            title: "Financial Institutions Management Laboratory",
+            description:
+              "Interactive simulations and decision trees for managing financial institution risks: liquidity, interest rate, market, credit, and operational.",
+            url: "https://laboratorio-gestao-ifs.vercel.app/",
+            tech: "Next.js · React · Banking Management",
+          },
         ],
       },
       {
@@ -353,6 +360,13 @@ const t = {
             url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
             tech: "Next.js · React · Desenvolvimento Financeiro",
           },
+          {
+            title: "Laboratório de Gestão de Instituições Financeiras",
+            description:
+              "Simulações interativas e árvores de decisão para a gestão dos riscos de instituições financeiras: liquidez, taxas de juros, mercado, crédito e operacional.",
+            url: "https://laboratorio-gestao-ifs.vercel.app/",
+            tech: "Next.js · React · Gestão Bancária",
+          },
         ],
       },
       {
@@ -402,6 +416,13 @@ const t = {
 
 /* Publications are the same in both languages (academic titles stay in English) */
 const PUBLICATIONS = [
+  {
+    title: "Ingresos distintos a intereses y el riesgo de crédito: el caso de la banca colombiana",
+    authors: "Galvis Ciro, J. C.; De Moraes, C. O.; Antunes, J. A. P.",
+    journal: "Revista Finanzas y Política Económica",
+    volume: "17, 1–28",
+    year: 2025,
+  },
   {
     title: "What do we know about the relationship between banks risk measures and social-environmental sustainability transparency?",
     authors: "Antunes, J. A. P.; De Moraes, C. O.; Grapiúna, L. S.",
