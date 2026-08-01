@@ -186,6 +186,13 @@ const t = {
             url: "https://laboratorio-gestao-ifs.vercel.app/",
             tech: "Next.js · React · Banking Management",
           },
+          {
+            title: "Econometrics Laboratory",
+            description:
+              "Interactive lab for learning and applying econometric methods, from regression fundamentals to model diagnostics.",
+            url: "https://laboratorio-econometria.vercel.app/",
+            tech: "Next.js · React · Econometrics",
+          },
         ],
       },
       {
@@ -366,6 +373,13 @@ const t = {
               "Simulações interativas e árvores de decisão para a gestão dos riscos de instituições financeiras: liquidez, taxas de juros, mercado, crédito e operacional.",
             url: "https://laboratorio-gestao-ifs.vercel.app/",
             tech: "Next.js · React · Gestão Bancária",
+          },
+          {
+            title: "Laboratório de Econometria",
+            description:
+              "Laboratório interativo para aprender e aplicar métodos econométricos, dos fundamentos da regressão ao diagnóstico de modelos.",
+            url: "https://laboratorio-econometria.vercel.app/",
+            tech: "Next.js · React · Econometria",
           },
         ],
       },
