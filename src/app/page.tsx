@@ -193,6 +193,13 @@ const t = {
             url: "https://laboratorio-econometria.vercel.app/",
             tech: "Next.js · React · Econometrics",
           },
+          {
+            title: "Federal Public Debt Monitor",
+            description:
+              "How much the federal government owes, what that debt is made of, when it matures, and at what rate the National Treasury funds itself — with official Tesouro Transparente data.",
+            url: "https://tesouro-nacional.vercel.app/",
+            tech: "Next.js · React · Public Debt",
+          },
         ],
       },
       {
@@ -380,6 +387,13 @@ const t = {
               "Laboratório interativo para aprender e aplicar métodos econométricos, dos fundamentos da regressão ao diagnóstico de modelos.",
             url: "https://laboratorio-econometria.vercel.app/",
             tech: "Next.js · React · Econometria",
+          },
+          {
+            title: "Monitor da Dívida Pública Federal",
+            description:
+              "Quanto o governo federal deve, do que essa dívida é feita, quando ela vence e a que juros o Tesouro Nacional se financia — com dados oficiais do Tesouro Transparente.",
+            url: "https://tesouro-nacional.vercel.app/",
+            tech: "Next.js · React · Dívida Pública",
           },
         ],
       },
