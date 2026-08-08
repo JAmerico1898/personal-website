@@ -194,11 +194,18 @@ const t = {
             tech: "Next.js · React · Econometrics",
           },
           {
-            title: "Federal Public Debt Monitor",
+            title: "Federal Public Accounts Observatory",
             description:
               "How much the federal government owes, what that debt is made of, when it matures, and at what rate the National Treasury funds itself — with official Tesouro Transparente data.",
             url: "https://tesouro-nacional.vercel.app/",
             tech: "Next.js · React · Public Debt",
+          },
+          {
+            title: "Private Securities Observatory",
+            description:
+              "The stock of private fixed income in Brazil and how corporate funding splits between banks and capital markets — time deposits, debentures, commercial notes, CRI/CRA and FIDCs, with official Central Bank and CVM data.",
+            url: "https://observatorio-titulos-privados-a4se.vercel.app/",
+            tech: "Next.js · React · Fixed Income",
           },
         ],
       },
@@ -389,11 +396,18 @@ const t = {
             tech: "Next.js · React · Econometria",
           },
           {
-            title: "Monitor da Dívida Pública Federal",
+            title: "Observatório das Contas Públicas Federais",
             description:
               "Quanto o governo federal deve, do que essa dívida é feita, quando ela vence e a que juros o Tesouro Nacional se financia — com dados oficiais do Tesouro Transparente.",
             url: "https://tesouro-nacional.vercel.app/",
             tech: "Next.js · React · Dívida Pública",
+          },
+          {
+            title: "Observatório de Títulos Privados",
+            description:
+              "O estoque de renda fixa privada no Brasil e como o financiamento das empresas se divide entre bancos e mercado de capitais — depósitos a prazo, debêntures, notas comerciais, CRI/CRA e FIDCs, com dados oficiais do Banco Central e da CVM.",
+            url: "https://observatorio-titulos-privados-a4se.vercel.app/",
+            tech: "Next.js · React · Renda Fixa",
           },
         ],
       },
