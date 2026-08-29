@@ -145,13 +145,6 @@ const t = {
             tech: "Next.js · React · Financial Markets",
           },
           {
-            title: "Central Bank Open Data Laboratory",
-            description:
-              "Explore and visualize data from the Central Bank of Brazil's Open Data Portal. Access information on assets, credit, interest rates, and financial indicators of regulated institutions.",
-            url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
-            tech: "Next.js · React · Open Data",
-          },
-          {
             title: "Corporate Treasury Laboratory",
             description:
               "Interactive simulations for hands-on learning of treasury management — working capital, cash, inventory, receivables, and suppliers.",
@@ -173,13 +166,6 @@ const t = {
             tech: "Next.js · React · Financial Analysis",
           },
           {
-            title: "Municipal Financial Development Atlas",
-            description:
-              "Access, depth, intermediation, digitalization, and financial inequality indicators for all Brazilian municipalities.",
-            url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
-            tech: "Next.js · React · Financial Development",
-          },
-          {
             title: "Financial Institutions Management Laboratory",
             description:
               "Interactive simulations and decision trees for managing financial institution risks: liquidity, interest rate, market, credit, and operational.",
@@ -192,6 +178,25 @@ const t = {
               "Interactive lab for learning and applying econometric methods, from regression fundamentals to model diagnostics.",
             url: "https://laboratorio-econometria.vercel.app/",
             tech: "Next.js · React · Econometrics",
+          },
+        ],
+      },
+      {
+        title: "Open Data Financial Market Observatories",
+        projects: [
+          {
+            title: "Central Bank Open Data Laboratory",
+            description:
+              "Explore and visualize data from the Central Bank of Brazil's Open Data Portal. Access information on assets, credit, interest rates, and financial indicators of regulated institutions.",
+            url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
+            tech: "Next.js · React · Open Data",
+          },
+          {
+            title: "Municipal Financial Development Atlas",
+            description:
+              "Access, depth, intermediation, digitalization, and financial inequality indicators for all Brazilian municipalities.",
+            url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
+            tech: "Next.js · React · Financial Development",
           },
           {
             title: "Federal Public Accounts Observatory",
@@ -206,6 +211,27 @@ const t = {
               "The stock of private fixed income in Brazil and how corporate funding splits between banks and capital markets — time deposits, debentures, commercial notes, CRI/CRA and FIDCs, with official Central Bank and CVM data.",
             url: "https://observatorio-titulos-privados-a4se.vercel.app/",
             tech: "Next.js · React · Fixed Income",
+          },
+          {
+            title: "Insurance Market Observatory",
+            description:
+              "Public SES/SUSEP data on premiums, claims, provisions, and the solvency of Brazilian insurers.",
+            url: "https://observatorio-mercado-seguros.vercel.app/",
+            tech: "Next.js · React · Insurance",
+          },
+          {
+            title: "Open Private Pension Market Observatory",
+            description:
+              "Public SES/SUSEP data on contributions, withdrawals, provisions, and portability in open private pensions.",
+            url: "https://observatorio-previdencia-privada.vercel.app/",
+            tech: "Next.js · React · Private Pensions",
+          },
+          {
+            title: "Asset Management Market Observatory",
+            description:
+              "Assets under management (AUM), fundraising, performance, and portfolios of Brazilian asset managers.",
+            url: "https://observatorio-gestao-recursos.vercel.app/",
+            tech: "Next.js · React · Asset Management",
           },
         ],
       },
@@ -347,13 +373,6 @@ const t = {
             tech: "Next.js · React · Mercado Financeiro",
           },
           {
-            title: "Laboratório de Dados Abertos do Banco Central",
-            description:
-              "Explore e visualize dados do Portal de Dados Abertos do Banco Central do Brasil. Consulte informações sobre ativos, crédito, taxas de juros e indicadores financeiros das instituições reguladas.",
-            url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
-            tech: "Next.js · React · Dados Abertos",
-          },
-          {
             title: "Laboratório de Tesouraria de Empresas",
             description:
               "Simulações interativas para o aprendizado prático da gestão de tesouraria — capital de giro, caixa, estoques, recebíveis e fornecedores.",
@@ -375,13 +394,6 @@ const t = {
             tech: "Next.js · React · Análise Financeira",
           },
           {
-            title: "Atlas de Desenvolvimento Financeiro dos Municípios",
-            description:
-              "Indicadores de acesso, profundidade, intermediação, digitalização e desigualdade financeira para todos os municípios brasileiros.",
-            url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
-            tech: "Next.js · React · Desenvolvimento Financeiro",
-          },
-          {
             title: "Laboratório de Gestão de Instituições Financeiras",
             description:
               "Simulações interativas e árvores de decisão para a gestão dos riscos de instituições financeiras: liquidez, taxas de juros, mercado, crédito e operacional.",
@@ -394,6 +406,25 @@ const t = {
               "Laboratório interativo para aprender e aplicar métodos econométricos, dos fundamentos da regressão ao diagnóstico de modelos.",
             url: "https://laboratorio-econometria.vercel.app/",
             tech: "Next.js · React · Econometria",
+          },
+        ],
+      },
+      {
+        title: "Observatórios de Dados Abertos do Mercado Financeiro",
+        projects: [
+          {
+            title: "Laboratório de Dados Abertos do Banco Central",
+            description:
+              "Explore e visualize dados do Portal de Dados Abertos do Banco Central do Brasil. Consulte informações sobre ativos, crédito, taxas de juros e indicadores financeiros das instituições reguladas.",
+            url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
+            tech: "Next.js · React · Dados Abertos",
+          },
+          {
+            title: "Atlas de Desenvolvimento Financeiro dos Municípios",
+            description:
+              "Indicadores de acesso, profundidade, intermediação, digitalização e desigualdade financeira para todos os municípios brasileiros.",
+            url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
+            tech: "Next.js · React · Desenvolvimento Financeiro",
           },
           {
             title: "Observatório das Contas Públicas Federais",
@@ -408,6 +439,27 @@ const t = {
               "O estoque de renda fixa privada no Brasil e como o financiamento das empresas se divide entre bancos e mercado de capitais — depósitos a prazo, debêntures, notas comerciais, CRI/CRA e FIDCs, com dados oficiais do Banco Central e da CVM.",
             url: "https://observatorio-titulos-privados-a4se.vercel.app/",
             tech: "Next.js · React · Renda Fixa",
+          },
+          {
+            title: "Observatório do Mercado de Seguros",
+            description:
+              "Dados públicos do SES/SUSEP — prêmios, sinistros, provisões e solvência das seguradoras brasileiras.",
+            url: "https://observatorio-mercado-seguros.vercel.app/",
+            tech: "Next.js · React · Seguros",
+          },
+          {
+            title: "Observatório do Mercado de Previdência Aberta",
+            description:
+              "Dados públicos do SES/SUSEP — contribuições, resgates, provisões e portabilidade da previdência complementar aberta.",
+            url: "https://observatorio-previdencia-privada.vercel.app/",
+            tech: "Next.js · React · Previdência Privada",
+          },
+          {
+            title: "Observatório do Mercado de Gestão de Recursos",
+            description:
+              "Patrimônio sob administração (AUM), captação, performance e carteiras das gestoras brasileiras.",
+            url: "https://observatorio-gestao-recursos.vercel.app/",
+            tech: "Next.js · React · Gestão de Recursos",
           },
         ],
       },
