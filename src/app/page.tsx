@@ -209,7 +209,7 @@ const t = {
             title: "Private Securities Observatory",
             description:
               "The stock of private fixed income in Brazil and how corporate funding splits between banks and capital markets — time deposits, debentures, commercial notes, CRI/CRA and FIDCs, with official Central Bank and CVM data.",
-            url: "https://observatorio-titulos-privados-a4se.vercel.app/",
+            url: "https://observatorio-titulos-privados.vercel.app/",
             tech: "Next.js · React · Fixed Income",
           },
           {
@@ -437,7 +437,7 @@ const t = {
             title: "Observatório de Títulos Privados",
             description:
               "O estoque de renda fixa privada no Brasil e como o financiamento das empresas se divide entre bancos e mercado de capitais — depósitos a prazo, debêntures, notas comerciais, CRI/CRA e FIDCs, com dados oficiais do Banco Central e da CVM.",
-            url: "https://observatorio-titulos-privados-a4se.vercel.app/",
+            url: "https://observatorio-titulos-privados.vercel.app/",
             tech: "Next.js · React · Renda Fixa",
           },
           {
