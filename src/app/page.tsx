@@ -192,13 +192,6 @@ const t = {
             tech: "Next.js · React · Open Data",
           },
           {
-            title: "Municipal Financial Development Atlas",
-            description:
-              "Access, depth, intermediation, digitalization, and financial inequality indicators for all Brazilian municipalities.",
-            url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
-            tech: "Next.js · React · Financial Development",
-          },
-          {
             title: "Federal Public Accounts Observatory",
             description:
               "How much the federal government owes, what that debt is made of, when it matures, and at what rate the National Treasury funds itself — with official Tesouro Transparente data.",
@@ -418,13 +411,6 @@ const t = {
               "Explore e visualize dados do Portal de Dados Abertos do Banco Central do Brasil. Consulte informações sobre ativos, crédito, taxas de juros e indicadores financeiros das instituições reguladas.",
             url: "https://laboratorio-dados-abertos-bcb.vercel.app/",
             tech: "Next.js · React · Dados Abertos",
-          },
-          {
-            title: "Atlas de Desenvolvimento Financeiro dos Municípios",
-            description:
-              "Indicadores de acesso, profundidade, intermediação, digitalização e desigualdade financeira para todos os municípios brasileiros.",
-            url: "https://atlas-desenvolvimento-financeiro-mu.vercel.app/",
-            tech: "Next.js · React · Desenvolvimento Financeiro",
           },
           {
             title: "Observatório das Contas Públicas Federais",
