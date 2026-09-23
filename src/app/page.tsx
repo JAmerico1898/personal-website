@@ -248,7 +248,7 @@ const t = {
             description:
               "A data-driven scouting tool for football talent analysis using public data and advanced metrics.",
             url: "https://plataforma-scouting-one.vercel.app/",
-            tech: "Streamlit · Python · Data Science",
+            tech: "Next.js · React · Football Analytics",
           },
           {
             title: "Performance and Playing Style Analysis — Brasileirão Série A",
@@ -469,7 +469,7 @@ const t = {
             description:
               "Ferramenta de scouting baseada em dados para análise de talentos no futebol usando dados públicos e métricas avançadas.",
             url: "https://plataforma-scouting-one.vercel.app/",
-            tech: "Streamlit · Python · Data Science",
+            tech: "Next.js · React · Football Analytics",
           },
           {
             title: "Análise de Performance e Estilo de Jogo - Brasileirão Série A",
