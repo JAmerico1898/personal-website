@@ -247,7 +247,7 @@ const t = {
             title: "Public Scouting Platform",
             description:
               "A data-driven scouting tool for football talent analysis using public data and advanced metrics.",
-            url: "https://softplayerz-soft-playerz-vx07dg.streamlit.app/",
+            url: "https://plataforma-scouting-one.vercel.app/",
             tech: "Streamlit · Python · Data Science",
           },
           {
@@ -468,7 +468,7 @@ const t = {
             title: "Plataforma Pública de Scouting",
             description:
               "Ferramenta de scouting baseada em dados para análise de talentos no futebol usando dados públicos e métricas avançadas.",
-            url: "https://softplayerz-soft-playerz-vx07dg.streamlit.app/",
+            url: "https://plataforma-scouting-one.vercel.app/",
             tech: "Streamlit · Python · Data Science",
           },
           {
